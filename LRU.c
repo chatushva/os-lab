@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main() {
     int i, j, k, min, rs[25], m[10], count[10], flag[25];
     int n, f, pf = 0, next = 1;
