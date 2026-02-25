@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 #define MAX 25
 
 int main() {
