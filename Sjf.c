@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main() {
     int p[20],bt[20],wt[20],tat[20],i,n,k,temp;
     float wtavg,tatavg;
